@@ -7,7 +7,8 @@
         "splitter",
         "tbfed-pagefooter",
         "page-treeview",
-        "popup"
+        "popup",
+        "change_girls"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -19,6 +20,18 @@
             "copyright": "Copyright &#169; aleen42",
             "minHeaderCount": "2",
             "minHeaderDeep": "2"
+        },
+        "change_girls": {
+            "time" : 5,
+            "urls" : ["https://github.com/floweringForever/junzhe51129/blob/main/wallpaper/fours.jpg","https://github.com/floweringForever/junzhe51129/blob/main/wallpaper/hello.jpg","https://github.com/floweringForever/junzhe51129/blob/main/wallpaper/junzhe.jpg","https://github.com/floweringForever/junzhe51129/blob/main/wallpaper/summar.jpg","https://github.com/floweringForever/junzhe51129/blob/main/wallpaper/yanchang.jpg"]
+        },
+        "lightbox": {
+            "includeJQuery": false,
+            "sameUuid": true,
+            "options": {
+                "resizeDuration": 500,
+                "wrapAround": false
+            }
         }
     }
 }
