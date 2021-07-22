@@ -133,11 +133,25 @@ hs一边洗广场，一边跑到超话来骂我们，我们呢，一边忙着洗
 
 除了吃瓜以外，今天复盘出来演唱会彩排的时候，俊子喊老婆”bb“，这腻歪的称呼啊，每次都在突破我的想象，我以为宝已经很不可思议了哈哈哈哈哈哈哈哈，没想到吧，还有bb，想起至今没听到过的”小絮絮“，啧啧啧，真腻歪。
 
-<video src="assets/video/bb_0719.mp4"></video>
+<video id="my-video" class="video-js" controls preload="auto" width="100%"
+poster="https://github.com/floweringForever/junzhe51129/blob/8e39514ae6dd952c62300b68c93122cda1dc9a2b/wallpaper/yanchang.jpg" data-setup='{"aspectRatio":"16:9"}'>
+  <source src="assets/video/bb_0719.mp4" type='video/mp4' >
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+</video>
 
 然后今天还盘口型，盘出来一个：
 
-<video src="assets/video/xm_0719.mp4"></video>
+<video id="my-video" class="video-js" controls preload="auto" width="100%"
+poster="https://github.com/floweringForever/junzhe51129/blob/8e39514ae6dd952c62300b68c93122cda1dc9a2b/wallpaper/yanchang.jpg" data-setup='{"aspectRatio":"16:9"}'>
+  <source src="assets/video/xm_0719.mp4" type='video/mp4' >
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+</video>
 
 这里，俊子的反应和脑回路都震惊我，他那么快的接上”那我就不一定被选上了“，说明他内心认定张老师妥妥的阿絮，而自己就不一定了，的确，当初，张老师是剧组请来的定海神针，而俊子是自己通过面试竞选上的温客行，他第一时间想到这个，说明他很在意这个，他很珍惜现在能和张老师一起饰演这部戏，他在庆幸，也在后怕，张老师安慰他说”是你，是你“，其实我们都知道如果不是疫情，可能就真的不是他们两位了，一个在后怕，一个在肯定，就是你了，没有如果，就是和你一起演的，别怕，别担心了。
 
@@ -151,17 +165,11 @@ hs一边洗广场，一边跑到超话来骂我们，我们呢，一边忙着洗
 
 俊子今天安乐传开机，导演还是山河令的两位导演，岭剧组以各种奇奇怪怪的混搭方式在二搭，求求老天爷睁眼看看我们许愿的二搭是什么吧，别再搭劈叉了。悄悄的小群吐槽了下，今天俊子开机的发型问题，感觉不太适合他，但是想想山河令的定妆造被嘲成什么样子了吧，所以期待后期打脸哈哈哈哈哈。
 
-听说因为wyf的问题，我厂投资的青簪行不一定能上，可能要推皓衣行上去了，在内网爬了下，也一堆人在问，但是也没人正经回复，我也不想去问腾讯视频的朋友，饭圈是饭圈，别为了吃瓜影响到自己和朋友的工作。可以预见的是，耽改再上一部，我们家两位的热度和流量可能会有所折损，但是也不会天天被人眼红盯着黑了。我一方面希望其他耽改赶紧上，把一些毒唯带走，但是另一方面，又希望喜欢山河令的这群人能不要走，继续喜爱和支持。人真的矛盾。
+听说因为wyf的问题，鹅厂投资的青簪行不一定能上，可能要推皓衣行上去了，在内网爬了下，也一堆人在问，但是也没人正经回复，我也不想去问视频的朋友，饭圈是饭圈，别为了吃瓜影响到自己和朋友的工作。可以预见的是，耽改再上一部，我们家两位的热度和流量可能会有所折损，但是也不会天天被人眼红盯着黑了。我一方面希望其他耽改赶紧上，把一些毒唯带走，但是另一方面，又希望喜欢山河令的这群人能不要走，继续喜爱和支持。人真的矛盾。
 
 另外，今天是雨夜一周年庆祝🎉，真的是爱对了人，每天都是过节，我们都过了多少个一周年庆祝了哈哈哈哈哈哈。豆瓣小组"雨夜收容所"今天有游园庆祝会，太太们产粮的产粮，歌唱的歌唱，以前对雨夜诸多意见，也不喜欢他们叫爸妈，但是经历过上次团结一致的反黑战斗后，对雨夜组已经好感upup了，都是用不同的方式真正喜爱着两位正主的人，不允许别人来中伤诋毁的人，求同存异吧，大家本就是有不同的口癖，不同的喜好，但是不能否认她们的铁血。
 
-
-
 晚上，全国人民都被河南暴雨牵动了，首页的太太们再一次化身转发机器，都在紧急扩散求助信息，真的觉得我关注的人都是好棒的人，因为爱聚在一起，然后这些人又三观一致，理智清醒，真的觉得很棒呐。今年国际疫情一直很严肃，国内又有莫名的天灾，国际形势也在国际疫情的影响下民心浮动，现在
-
-
-
-
 
 
 
