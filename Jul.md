@@ -318,3 +318,5 @@ poster="https://github.com/floweringForever/junzhe51129/blob/8e39514ae6dd952c623
 
 附录七：山人爆料：[今日横店八面山的高尔夫记录](https://m.weibo.cn/status/4662884506796247?sourceType=weixin&from=10B7295010&wm=9006_2001&featurecode=newtitle)
 
+附录八：[有人买号两千一个号，两百一条博](![image-20210725193542558](assets/Jul/image-20210725193542558.png))
+
